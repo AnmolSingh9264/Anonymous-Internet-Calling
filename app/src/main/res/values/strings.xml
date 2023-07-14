@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Personal calls</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome">Welcome\nBack</string>
+    <string name="login">Login</string>
+    <string name="forget">Forget password?</string>
+    <string name="register">New User<b /><font color="#ed9c63"> Register Now</font><b /></string>
+    <string name="createaccount">Create\nAccount</string>
+    <string name="name">Name</string>
+    <string name="Email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="Signup">SIGN UP</string>
+    <string name="already"><font color="#9ba4a4">Already have an account?</font><b /> <font color="#ed9c63"> SIGN IN</font><b /></string>
+    <string name="request">Send Request</string>
+    <string name="uid">Phone number</string>
+</resources>
